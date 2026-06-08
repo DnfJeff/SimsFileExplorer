@@ -1,8 +1,11 @@
 # Sims File Explorer
 
-Lightweight explorer for **The Sims 1** archive formats.
 
-![Sims File Explorer UI](SimsFileExplorer.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="Sims File Explorer UI">
+</p>
+
+Lightweight explorer for **The Sims 1** archive formats.
 
 ## Features
 
