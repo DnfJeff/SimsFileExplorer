@@ -1,9 +1,7 @@
 # Sims File Explorer
 
 
-<p align="center">
-  <img src="assets/screenshot.png" alt="Sims File Explorer UI">
-</p>
+![Sims File Explorer UI](assets/screenshot.png)
 
 Lightweight explorer for **The Sims 1** archive formats.
 
